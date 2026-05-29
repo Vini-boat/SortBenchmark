@@ -1,3 +1,5 @@
+//Guilherme Paes e Vinicius Avila
+
 // MergeSort — O(n log n) garantido em todos os casos, O(n) espaço auxiliar
 class Solution {
 public:
