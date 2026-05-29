@@ -1,3 +1,6 @@
+//Guilherme Paes e Vinicius Avila
+
+
 // Quicksort — O(n log n) médio, O(n²) pior caso, O(log n) espaço (pilha)
 class Solution {
 public:
